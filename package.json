@@ -11,7 +11,7 @@
     "express": "^4.16.4",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "morgan": "~1.9.1",
     "socket.io": "^2.3.0",
     "tinydb": "^0.1.0"
